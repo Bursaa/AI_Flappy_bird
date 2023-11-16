@@ -22,6 +22,7 @@ To set up the project, ensure you have the required Python libraries installed. 
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -31,6 +32,7 @@ To make training start:
 
 ```bash
 python flappy_bird.py
+```
 
 ### Configuration
 

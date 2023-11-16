@@ -62,13 +62,13 @@ The AI agent's fitness is determined based on its performance in the game. The a
 - Once training completes, the best-performing neural network (`best.pickle`) is available for use.
 - This trained network can be loaded and used to play Flappy Bird without further training.
 
-### Files Included
+## Files Included
 
 - `flappy_bird.py`: Main Python script containing the game implementation and NEAT training.
 - `config-feedforward.txt`: Configuration file for the NEAT algorithm.
 - `requirements.txt`: List of required Python packages and their versions.
 
-### Acknowledgments
+## Acknowledgments
 
 - This project was inspired by the classic Flappy Bird game.
 - NEAT algorithm implementation reference: [NEAT-Python](https://neat-python.readthedocs.io/en/latest/)
